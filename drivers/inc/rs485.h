@@ -1,0 +1,4 @@
+#ifndef DRIVERS_INC_RS485_H
+#define DRIVERS_INC_RS485_H
+
+#endif /* DRIVERS_INC_RS485_H */

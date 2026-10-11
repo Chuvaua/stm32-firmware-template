@@ -1,0 +1,41 @@
+# Object files and compiler dependency files
+*.o
+*.obj
+*.d
+*.dep
+
+# Libraries and precompiled headers
+*.a
+*.lib
+*.so
+*.dll
+*.gch
+*.pch
+
+# Firmware and linker outputs
+*.elf
+*.axf
+*.out
+*.hex
+*.bin
+*.map
+*.lst
+*.list
+*.su
+
+# Build directories
+build/
+Debug/
+Release/
+Objects/
+Listings/
+
+# IDE build artifacts and local settings (Keil / IAR)
+*.crf
+*.lnp
+*.sct.bak
+*.uvguix.*
+*.uvoptx
+*.ewt
+*.bak
+*.tmp

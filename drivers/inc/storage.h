@@ -1,0 +1,4 @@
+#ifndef DRIVERS_INC_STORAGE_H
+#define DRIVERS_INC_STORAGE_H
+
+#endif /* DRIVERS_INC_STORAGE_H */
